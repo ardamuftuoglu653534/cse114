@@ -3,7 +3,7 @@
 void aranilan_eleman(int *p,int eleman);
 
 int main() {
-   int A[5]={10,48,13,28,96,73};
+   int A[6]={10,48,13,28,96,73};
    int eleman;
    printf("Lütfen aradığınız elemanı girin: ");
    scanf("%d",&eleman);
