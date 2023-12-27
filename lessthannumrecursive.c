@@ -1,5 +1,5 @@
 
-// bir arrayda kendisinden küçük olan sayıları yazdıran rec. fonk.
+// bir arrayda kendisine kadar kendisinden küçük olan sayıları yazdıran rec. fonk.
 #include <stdio.h>
 int lessThanNum(int A[],int num,int i);
 int main()
